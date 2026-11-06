@@ -5,7 +5,6 @@
 Из каталога проекта выполните:
 
 ```bash
-cd /Users/dmitriy/repo/stek
 docker compose up --build -d
 ```
 
