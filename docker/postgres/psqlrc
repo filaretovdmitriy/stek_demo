@@ -1,0 +1,3 @@
+\set QUIET 1
+\pset null '[NULL]'
+\set QUIET 0
